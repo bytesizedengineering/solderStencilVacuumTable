@@ -1,10 +1,11 @@
 # Solder Stencil Vacuum Table  
 
 ![Project Image](/docs/project-image.png)  
-*A brief one-liner describing the project.*  
+A downdraft vacuum table for solder stencils. It helps keep the stencil flat against the PCB when applying solder paste to ensure proper application.  
 
 ## 🚀 Overview  
-This project is a downdraft vacuum table for solder stencils. It helps keep the stencil flat against the PCB when applying solder paste to ensure proper application.
+When it comes to assembling and soldering PCBs, there are a lot of different approaches you can take. Sometimes, I hand-place and hand-solder each individual component, but if I have a lot of boards to do, it's definitely faster to order a solder stencil. However, solder stencils can be tricky to get right. In my experience, if I don't have them perfectly flat, I'll often deposit too much solder paste, which causes problems down the road. In this project, I want to see if I can solve this problem using my shop vac.
+
 It was featured on the [DigiKey YouTube channel](https://www.youtube.com/@digikey) in [this video](#).  
 
 ## 📂 Repository Structure  
