@@ -1,6 +1,6 @@
 # Solder Stencil Vacuum Table  
 
-![Project Image](https://github.com/bytesizedengineering/solderStencilVacuumTable/docs/project-image.png)  
+![Project Image](/docs/project-image.png)  
 *A brief one-liner describing the project.*  
 
 ## 🚀 Overview  
