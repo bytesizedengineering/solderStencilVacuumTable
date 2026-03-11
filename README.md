@@ -6,7 +6,7 @@ A downdraft vacuum table for solder stencils. It helps keep the stencil flat aga
 ## 🚀 Overview  
 When it comes to assembling and soldering PCBs, there are a lot of different approaches you can take. Sometimes, I hand-place and hand-solder each individual component, but if I have a lot of boards to do, it's definitely faster to order a solder stencil. However, solder stencils can be tricky to get right. In my experience, if I don't have them perfectly flat, I'll often deposit too much solder paste, which causes problems down the road. In this project, I want to see if I can solve this problem using my shop vac.
 
-It was featured on the [DigiKey YouTube channel](https://www.youtube.com/@digikey) in [this video](#).  
+It was featured on the [DigiKey YouTube channel](https://www.youtube.com/@digikey) in [this video](https://youtu.be/vWRh33-FOqo?si=S7b0XPj5VfUe72aw).  
 
 ## 📂 Repository Structure  
 ```
@@ -22,11 +22,11 @@ You can access the latest Fusion 360 model here:
 
 ### 🖨️ 3D Printing  
 - **Recommended Material**: PLA/PETG  
-- **Layer Height**: [e.g., 0.2mm]  
+- **Layer Height**: 0.2mm  
 - **Supports**: Yes 
 
 ## 🎥 Video & More Info  
-📺 Watch the full build video: [YouTube Video](#)  
+📺 Watch the full build video: [YouTube Video](https://youtu.be/vWRh33-FOqo?si=S7b0XPj5VfUe72aw)  
 
 ## 📝 License  
 This project is licensed under the **GNU General Public License v3.0**.  
